@@ -1,1 +1,1 @@
-ksh " DOCKER RUNNING "
+echo " DOCKER RUNNING "
